@@ -76,7 +76,7 @@ function browserRedirect() {
 	var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";  
 
 	if (bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {  
-		window.location.href="http://www.fgkj.cc/wap.php";   
+		window.location.href="https://topandone.github.io/topOne/index.html";
 	}  
 
 }  
